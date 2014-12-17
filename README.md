@@ -1,4 +1,3 @@
-oc-plugin-twitter-bootstrap
-===========================
+# oc-plugin-twitter-bootstrap
 
-Twitter Bootstrap (http://getbootstrap.com) for OctoberCMS.
+> Twitter Bootstrap (http://getbootstrap.com) Plugin for OctoberCMS.
